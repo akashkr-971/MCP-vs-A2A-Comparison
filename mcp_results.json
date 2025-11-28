@@ -1,0 +1,242 @@
+[
+  {
+    "protocol": "MCP",
+    "request_index": 1,
+    "duration_ms": 13.883352279663086,
+    "success": true,
+    "error": null,
+    "messages_or_calls": 2
+  },
+  {
+    "protocol": "MCP",
+    "request_index": 2,
+    "duration_ms": 5.948781967163086,
+    "success": true,
+    "error": null,
+    "messages_or_calls": 2
+  },
+  {
+    "protocol": "MCP",
+    "request_index": 3,
+    "duration_ms": 26.989459991455078,
+    "success": true,
+    "error": null,
+    "messages_or_calls": 2
+  },
+  {
+    "protocol": "MCP",
+    "request_index": 4,
+    "duration_ms": 5.263090133666992,
+    "success": true,
+    "error": null,
+    "messages_or_calls": 2
+  },
+  {
+    "protocol": "MCP",
+    "request_index": 5,
+    "duration_ms": 5.389690399169922,
+    "success": true,
+    "error": null,
+    "messages_or_calls": 2
+  },
+  {
+    "protocol": "MCP",
+    "request_index": 6,
+    "duration_ms": 31.48365020751953,
+    "success": true,
+    "error": null,
+    "messages_or_calls": 2
+  },
+  {
+    "protocol": "MCP",
+    "request_index": 7,
+    "duration_ms": 5.006074905395508,
+    "success": true,
+    "error": null,
+    "messages_or_calls": 2
+  },
+  {
+    "protocol": "MCP",
+    "request_index": 8,
+    "duration_ms": 4.033803939819336,
+    "success": true,
+    "error": null,
+    "messages_or_calls": 2
+  },
+  {
+    "protocol": "MCP",
+    "request_index": 9,
+    "duration_ms": 5.496501922607422,
+    "success": true,
+    "error": null,
+    "messages_or_calls": 2
+  },
+  {
+    "protocol": "MCP",
+    "request_index": 10,
+    "duration_ms": 4.887819290161133,
+    "success": true,
+    "error": null,
+    "messages_or_calls": 2
+  },
+  {
+    "protocol": "MCP",
+    "request_index": 11,
+    "duration_ms": 16.50857925415039,
+    "success": true,
+    "error": null,
+    "messages_or_calls": 2
+  },
+  {
+    "protocol": "MCP",
+    "request_index": 12,
+    "duration_ms": 45.7310676574707,
+    "success": true,
+    "error": null,
+    "messages_or_calls": 2
+  },
+  {
+    "protocol": "MCP",
+    "request_index": 13,
+    "duration_ms": 4.00543212890625,
+    "success": true,
+    "error": null,
+    "messages_or_calls": 2
+  },
+  {
+    "protocol": "MCP",
+    "request_index": 14,
+    "duration_ms": 16.14665985107422,
+    "success": true,
+    "error": null,
+    "messages_or_calls": 2
+  },
+  {
+    "protocol": "MCP",
+    "request_index": 15,
+    "duration_ms": 5.007028579711914,
+    "success": true,
+    "error": null,
+    "messages_or_calls": 2
+  },
+  {
+    "protocol": "MCP",
+    "request_index": 16,
+    "duration_ms": 4.6024322509765625,
+    "success": true,
+    "error": null,
+    "messages_or_calls": 2
+  },
+  {
+    "protocol": "MCP",
+    "request_index": 17,
+    "duration_ms": 4.459381103515625,
+    "success": true,
+    "error": null,
+    "messages_or_calls": 2
+  },
+  {
+    "protocol": "MCP",
+    "request_index": 18,
+    "duration_ms": 5.331993103027344,
+    "success": true,
+    "error": null,
+    "messages_or_calls": 2
+  },
+  {
+    "protocol": "MCP",
+    "request_index": 19,
+    "duration_ms": 4.101276397705078,
+    "success": true,
+    "error": null,
+    "messages_or_calls": 2
+  },
+  {
+    "protocol": "MCP",
+    "request_index": 20,
+    "duration_ms": 4.523754119873047,
+    "success": true,
+    "error": null,
+    "messages_or_calls": 2
+  },
+  {
+    "protocol": "MCP",
+    "request_index": 21,
+    "duration_ms": 14.085054397583008,
+    "success": true,
+    "error": null,
+    "messages_or_calls": 2
+  },
+  {
+    "protocol": "MCP",
+    "request_index": 22,
+    "duration_ms": 14.296293258666992,
+    "success": true,
+    "error": null,
+    "messages_or_calls": 2
+  },
+  {
+    "protocol": "MCP",
+    "request_index": 23,
+    "duration_ms": 19.996166229248047,
+    "success": true,
+    "error": null,
+    "messages_or_calls": 2
+  },
+  {
+    "protocol": "MCP",
+    "request_index": 24,
+    "duration_ms": 31.24213218688965,
+    "success": true,
+    "error": null,
+    "messages_or_calls": 2
+  },
+  {
+    "protocol": "MCP",
+    "request_index": 25,
+    "duration_ms": 5.2490234375,
+    "success": true,
+    "error": null,
+    "messages_or_calls": 2
+  },
+  {
+    "protocol": "MCP",
+    "request_index": 26,
+    "duration_ms": 4.8923492431640625,
+    "success": true,
+    "error": null,
+    "messages_or_calls": 2
+  },
+  {
+    "protocol": "MCP",
+    "request_index": 27,
+    "duration_ms": 5.343437194824219,
+    "success": true,
+    "error": null,
+    "messages_or_calls": 2
+  },
+  {
+    "protocol": "MCP",
+    "request_index": 28,
+    "duration_ms": 5.39851188659668,
+    "success": true,
+    "error": null,
+    "messages_or_calls": 2
+  },
+  {
+    "protocol": "MCP",
+    "request_index": 29,
+    "duration_ms": 4.978179931640625,
+    "success": true,
+    "error": null,
+    "messages_or_calls": 2
+  },
+  {
+    "protocol": "MCP",
+    "request_index": 30,
+    "duration_ms": 4.218816757202148,
+    "success": true,
+    "error": null,
+    "messages_or_calls": 2
+  }
+]
