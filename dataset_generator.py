@@ -13,7 +13,7 @@ def generate_dataset(
     Generate a list of numeric arrays for analysis.
     This will be used by BOTH MCP and A2A experiments.
     """
-    random.seed(42)  # so MCP and A2A see the exact same data
+    random.seed(42) 
     dataset = []
 
     for _ in range(num_cases):
