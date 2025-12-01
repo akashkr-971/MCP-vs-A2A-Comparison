@@ -34,7 +34,6 @@ def run_a2a_experiment():
         error_msg = None
 
         try:
-            # Coordinator Agent A: delegate task to Worker Agent B
             status_code, resp = send_task_to_worker(task_id, numbers)
 
             if status_code != 200 or resp.get("status") != "success":
