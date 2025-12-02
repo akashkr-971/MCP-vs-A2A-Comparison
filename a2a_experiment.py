@@ -50,7 +50,7 @@ def run_a2a_experiment():
         overall_end = time.time()
         duration_ms = (overall_end - overall_start) * 1000.0
 
-        # In this simple model, there are 2 messages:
+        
         # 1) A -> B, 2) B -> A
         results.append({
             "protocol": "A2A",
