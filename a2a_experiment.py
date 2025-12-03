@@ -50,8 +50,6 @@ def run_a2a_experiment():
         overall_end = time.time()
         duration_ms = (overall_end - overall_start) * 1000.0
 
-        
-        # 1) A -> B, 2) B -> A
         results.append({
             "protocol": "A2A",
             "request_index": idx,
