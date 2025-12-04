@@ -56,7 +56,7 @@ def run_a2a_experiment():
             "duration_ms": duration_ms,
             "success": success,
             "error": error_msg,
-            "messages_or_calls": 2  # two agent messages per request
+            "messages_or_calls": 2  
         })
 
         status_str = "OK" if success else "FAIL"
