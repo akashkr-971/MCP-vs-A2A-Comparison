@@ -62,5 +62,5 @@ def process_task():
 
 
 if __name__ == "__main__":
-    print("🚀 A2A Worker Agent (B) running on http://127.0.0.1:5002")
+    print("🚀 A2A Worker Agent running on http://127.0.0.1:5002")
     app.run(host="127.0.0.1", port=5002)
