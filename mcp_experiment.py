@@ -34,7 +34,6 @@ def run_mcp_experiment():
         error_msg = None
 
         try:
-            # 1st tool: analyze_data
             status_code1, resp1 = call_tool(
                 "analyze_data",
                 request_id=request_id,
