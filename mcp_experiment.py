@@ -44,7 +44,7 @@ def run_mcp_experiment():
 
             stats = resp1.get("stats")
 
-            # 2nd tool: generate_summary
+            
             status_code2, resp2 = call_tool(
                 "generate_summary",
                 request_id=request_id,
