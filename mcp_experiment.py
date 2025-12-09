@@ -96,7 +96,6 @@ def run_mcp_experiment():
         print(f"Max Time (ms)       : {max_time:.2f}")
     print("Messages/Calls per Request : 2 tool calls")
 
-    # Optionally save raw results
     out_path = Path("mcp_results.json")
     with out_path.open("w", encoding="utf-8") as f:
         json.dump(results, f, indent=2)
